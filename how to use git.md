@@ -12,6 +12,6 @@ PUSH 레파지토리로 자료 올리기 git push origin master
 git init  
 git config user.name  
 git config user.email  
-git status 
+git status  
 git add -A  
 git commit -m ""  
